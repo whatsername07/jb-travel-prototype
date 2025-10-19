@@ -1,0 +1,16 @@
+.subtitle {
+    display: block;
+}
+header  {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+#title {
+    justify-content: flex-start;
+}
+
+.header-link {
+    margin: 20px;
+}
